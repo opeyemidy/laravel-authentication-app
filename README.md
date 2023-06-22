@@ -16,7 +16,7 @@ This is a user authentication and authorization app built using Laravel. It prov
 
 To run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your/repo.git`
+1. Clone the repository: `git clone https://github.com/opeyemidy/laravel-authentication-app.git`
 2. Install the project dependencies: `composer install`
 3. Install the node dependencies: `yarn` or `npm install`
 4. Set up and start the Laravel server: `php artisan project:setup`
